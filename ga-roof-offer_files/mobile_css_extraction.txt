@@ -1,0 +1,545 @@
+====================================================================================================
+COMPLETE MOBILE CSS EXTRACTION
+Source: ga-roof-offer.html (444KB)
+Query: @media screen and (min-width:0px) and (max-width:480px)
+====================================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #1 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 1: #hl_main_popup.popup-body
+      width: 380px!important;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #2 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 2: #hl_main_popup-CZjIc47IpK.popup-body
+      width: 380px!important;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #3 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 3: .paragraph-pPJ_cZeaEk h1,.paragraph-pPJ_cZeaEk h2,.paragraph-pPJ_cZeaEk h3,.paragraph-pPJ_cZeaEk h4,.paragraph-pPJ_cZeaEk h5,.paragraph-pPJ_cZeaEk h6,.paragraph-pPJ_cZeaEk ul li,.paragraph-pPJ_cZeaEk.text-output
+      font-size: 16px!important;
+      font-weight: 700;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #4 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 4: .hl_page-preview--content .section-yOgb-2YeC
+      padding-top: 0;
+      padding-bottom: 0;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #5 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 5: .hl_page-preview--content .cparagraph-u0EJQjNAi5
+      padding-top: 10px;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #6 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 6: .hl_page-preview--content .cheading-5wm6NlZTsw
+      padding-top: 20px;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #7 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 7: .paragraph-u0EJQjNAi5 h1,.paragraph-u0EJQjNAi5 h2,.paragraph-u0EJQjNAi5 h3,.paragraph-u0EJQjNAi5 h4,.paragraph-u0EJQjNAi5 h5,.paragraph-u0EJQjNAi5 h6,.paragraph-u0EJQjNAi5 ul li,.paragraph-u0EJQjNAi5.text-output
+      font-size: 18px!important;
+      font-weight: 400;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #8 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 8: .heading-5wm6NlZTsw h1,.heading-5wm6NlZTsw h2,.heading-5wm6NlZTsw h3,.heading-5wm6NlZTsw h4,.heading-5wm6NlZTsw h5,.heading-5wm6NlZTsw h6,.heading-5wm6NlZTsw ul li,.heading-5wm6NlZTsw.text-output
+      font-size: 50px!important;
+      font-weight: 700;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #9 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 9: .hl_page-preview--content .col-8CUqst3FaE>.inner
+      padding-left: 20px!important;
+      padding-right: 20px!important;
+      margin-top: 0;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #10 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 10: .hl_page-preview--content .col-TBAjcUEN1A>.inner
+      padding-left: 20px!important;
+      padding-right: 20px!important;
+      margin-top: 0;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #11 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 11: .hl_page-preview--content .col-4LRQzj3ijA>.inner
+      padding-left: 20px!important;
+      padding-right: 20px!important;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #12 (from style block 3) — 4 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 12: .button-DNFeMe4eEI .button-icon-end,.button-DNFeMe4eEI .button-icon-start,.button-DNFeMe4eEI .main-heading-button
+      font-size: 18px;
+      font-weight: 600;
+
+  RULE 13: .button-DNFeMe4eEI .button-icon-start
+      margin-right: 5px;
+
+  RULE 14: .button-DNFeMe4eEI .button-icon-end
+      margin-left: 5px;
+
+  RULE 15: .button-DNFeMe4eEI .sub-heading-button
+      font-size: 15px;
+      color: var(--white);
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #13 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 16: .heading-IvzOJIubg9 h1,.heading-IvzOJIubg9 h2,.heading-IvzOJIubg9 h3,.heading-IvzOJIubg9 h4,.heading-IvzOJIubg9 h5,.heading-IvzOJIubg9 h6,.heading-IvzOJIubg9 ul li,.heading-IvzOJIubg9.text-output
+      font-size: 28px!important;
+      font-weight: 700;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #14 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 17: .heading-1orD3aAS46 h1,.heading-1orD3aAS46 h2,.heading-1orD3aAS46 h3,.heading-1orD3aAS46 h4,.heading-1orD3aAS46 h5,.heading-1orD3aAS46 h6,.heading-1orD3aAS46 ul li,.heading-1orD3aAS46.text-output
+      font-size: 28px!important;
+      font-weight: 700;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #15 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 18: .heading-j4YHR-xO_L h1,.heading-j4YHR-xO_L h2,.heading-j4YHR-xO_L h3,.heading-j4YHR-xO_L h4,.heading-j4YHR-xO_L h5,.heading-j4YHR-xO_L h6,.heading-j4YHR-xO_L ul li,.heading-j4YHR-xO_L.text-output
+      font-size: 28px!important;
+      font-weight: 700;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #16 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 19: .hl_page-preview--content .section-9C65Qqozkk
+      padding-bottom: 0;
+      padding-top: 0;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #17 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 20: .sub-heading-7Q842E0tML h1,.sub-heading-7Q842E0tML h2,.sub-heading-7Q842E0tML h3,.sub-heading-7Q842E0tML h4,.sub-heading-7Q842E0tML h5,.sub-heading-7Q842E0tML h6,.sub-heading-7Q842E0tML ul li,.sub-heading-7Q842E0tML.text-output
+      font-size: 18px!important;
+      font-weight: 400;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #18 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 21: .sub-heading-jFvVNS8wRZ h1,.sub-heading-jFvVNS8wRZ h2,.sub-heading-jFvVNS8wRZ h3,.sub-heading-jFvVNS8wRZ h4,.sub-heading-jFvVNS8wRZ h5,.sub-heading-jFvVNS8wRZ h6,.sub-heading-jFvVNS8wRZ ul li,.sub-heading-jFvVNS8wRZ.text-output
+      font-size: 18px!important;
+      font-weight: 400;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #19 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 22: .sub-heading-ZsGAIt5ha0 h1,.sub-heading-ZsGAIt5ha0 h2,.sub-heading-ZsGAIt5ha0 h3,.sub-heading-ZsGAIt5ha0 h4,.sub-heading-ZsGAIt5ha0 h5,.sub-heading-ZsGAIt5ha0 h6,.sub-heading-ZsGAIt5ha0 ul li,.sub-heading-ZsGAIt5ha0.text-output
+      font-size: 18px!important;
+      font-weight: 400;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #20 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 23: .sub-heading-jDsh2xngQKN h1,.sub-heading-jDsh2xngQKN h2,.sub-heading-jDsh2xngQKN h3,.sub-heading-jDsh2xngQKN h4,.sub-heading-jDsh2xngQKN h5,.sub-heading-jDsh2xngQKN h6,.sub-heading-jDsh2xngQKN ul li,.sub-heading-jDsh2xngQKN.text-output
+      font-size: 18px!important;
+      font-weight: 400;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #21 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 24: .heading-Gi1p7xKUq8 h1,.heading-Gi1p7xKUq8 h2,.heading-Gi1p7xKUq8 h3,.heading-Gi1p7xKUq8 h4,.heading-Gi1p7xKUq8 h5,.heading-Gi1p7xKUq8 h6,.heading-Gi1p7xKUq8 ul li,.heading-Gi1p7xKUq8.text-output
+      font-size: 48px!important;
+      font-weight: 700;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #22 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 25: .sub-heading-GpLJi0pnTQ h1,.sub-heading-GpLJi0pnTQ h2,.sub-heading-GpLJi0pnTQ h3,.sub-heading-GpLJi0pnTQ h4,.sub-heading-GpLJi0pnTQ h5,.sub-heading-GpLJi0pnTQ h6,.sub-heading-GpLJi0pnTQ ul li,.sub-heading-GpLJi0pnTQ.text-output
+      font-size: 20px!important;
+      font-weight: 400;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #23 (from style block 3) — 4 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 26: .button-2eM9Q3G55q .button-icon-end,.button-2eM9Q3G55q .button-icon-start,.button-2eM9Q3G55q .main-heading-button
+      font-size: 18px;
+      font-weight: 600;
+
+  RULE 27: .button-2eM9Q3G55q .button-icon-start
+      margin-right: 5px;
+
+  RULE 28: .button-2eM9Q3G55q .button-icon-end
+      margin-left: 5px;
+
+  RULE 29: .button-2eM9Q3G55q .sub-heading-button
+      font-size: 15px;
+      color: var(--white);
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #24 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 30: .paragraph-ceq_sjc3d- h1,.paragraph-ceq_sjc3d- h2,.paragraph-ceq_sjc3d- h3,.paragraph-ceq_sjc3d- h4,.paragraph-ceq_sjc3d- h5,.paragraph-ceq_sjc3d- h6,.paragraph-ceq_sjc3d- ul li,.paragraph-ceq_sjc3d-.text-output
+      font-size: 16px!important;
+      font-weight: 400;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #25 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 31: .heading-fQYj8a1OsY h1,.heading-fQYj8a1OsY h2,.heading-fQYj8a1OsY h3,.heading-fQYj8a1OsY h4,.heading-fQYj8a1OsY h5,.heading-fQYj8a1OsY h6,.heading-fQYj8a1OsY ul li,.heading-fQYj8a1OsY.text-output
+      font-size: 48px!important;
+      font-weight: 700;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #26 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 32: .sub-heading-MQMQ0VUQeA h1,.sub-heading-MQMQ0VUQeA h2,.sub-heading-MQMQ0VUQeA h3,.sub-heading-MQMQ0VUQeA h4,.sub-heading-MQMQ0VUQeA h5,.sub-heading-MQMQ0VUQeA h6,.sub-heading-MQMQ0VUQeA ul li,.sub-heading-MQMQ0VUQeA.text-output
+      font-size: 20px!important;
+      font-weight: 400;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #27 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 33: .hl_page-preview--content .col-zrM9pVMkhU>.inner
+      padding-left: 20px!important;
+      padding-right: 20px!important;
+      margin-top: 80px;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #28 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 34: .hl_page-preview--content .col-KuIonxw2G2>.inner
+      padding-left: 20px!important;
+      padding-right: 20px!important;
+      margin-top: 40px;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #29 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 35: .hl_page-preview--content .col-_Cmh5kb9aW>.inner
+      padding-left: 20px!important;
+      padding-right: 20px!important;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #30 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 36: .paragraph-ma4-yoo8HF h1,.paragraph-ma4-yoo8HF h2,.paragraph-ma4-yoo8HF h3,.paragraph-ma4-yoo8HF h4,.paragraph-ma4-yoo8HF h5,.paragraph-ma4-yoo8HF h6,.paragraph-ma4-yoo8HF ul li,.paragraph-ma4-yoo8HF.text-output
+      font-size: 16px!important;
+      font-weight: 400;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #31 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 37: .paragraph-56bHP-m6Eh h1,.paragraph-56bHP-m6Eh h2,.paragraph-56bHP-m6Eh h3,.paragraph-56bHP-m6Eh h4,.paragraph-56bHP-m6Eh h5,.paragraph-56bHP-m6Eh h6,.paragraph-56bHP-m6Eh ul li,.paragraph-56bHP-m6Eh.text-output
+      font-size: 16px!important;
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #32 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 38: .paragraph-M0tH6KuZuD h1,.paragraph-M0tH6KuZuD h2,.paragraph-M0tH6KuZuD h3,.paragraph-M0tH6KuZuD h4,.paragraph-M0tH6KuZuD h5,.paragraph-M0tH6KuZuD h6,.paragraph-M0tH6KuZuD ul li,.paragraph-M0tH6KuZuD.text-output
+      font-size: 16px!important;
+      font-weight: 400;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #33 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 39: .paragraph-km8XBulyCk h1,.paragraph-km8XBulyCk h2,.paragraph-km8XBulyCk h3,.paragraph-km8XBulyCk h4,.paragraph-km8XBulyCk h5,.paragraph-km8XBulyCk h6,.paragraph-km8XBulyCk ul li,.paragraph-km8XBulyCk.text-output
+      font-size: 16px!important;
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #34 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 40: .paragraph-6jAwPlt12Q h1,.paragraph-6jAwPlt12Q h2,.paragraph-6jAwPlt12Q h3,.paragraph-6jAwPlt12Q h4,.paragraph-6jAwPlt12Q h5,.paragraph-6jAwPlt12Q h6,.paragraph-6jAwPlt12Q ul li,.paragraph-6jAwPlt12Q.text-output
+      font-size: 16px!important;
+      font-weight: 400;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #35 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 41: .paragraph-hJ3jGQTteG h1,.paragraph-hJ3jGQTteG h2,.paragraph-hJ3jGQTteG h3,.paragraph-hJ3jGQTteG h4,.paragraph-hJ3jGQTteG h5,.paragraph-hJ3jGQTteG h6,.paragraph-hJ3jGQTteG ul li,.paragraph-hJ3jGQTteG.text-output
+      font-size: 16px!important;
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #36 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 42: .heading-SKMkiXqKXd h1,.heading-SKMkiXqKXd h2,.heading-SKMkiXqKXd h3,.heading-SKMkiXqKXd h4,.heading-SKMkiXqKXd h5,.heading-SKMkiXqKXd h6,.heading-SKMkiXqKXd ul li,.heading-SKMkiXqKXd.text-output
+      font-size: 48px!important;
+      font-weight: 700;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #37 (from style block 3) — 2 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 43: .bulletList-Ia5zUriP1O h1,.bulletList-Ia5zUriP1O h2,.bulletList-Ia5zUriP1O h3,.bulletList-Ia5zUriP1O h4,.bulletList-Ia5zUriP1O h5,.bulletList-Ia5zUriP1O h6,.bulletList-Ia5zUriP1O ul li,.bulletList-Ia5zUriP1O.text-output
+      font-size: 16px!important;
+      font-weight: 400;
+
+  RULE 44: .bulletList-Ia5zUriP1O.text-output li:not(:last-child)
+      margin-bottom: 0;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #38 (from style block 3) — 2 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 45: .bulletList-onPXCScsiO h1,.bulletList-onPXCScsiO h2,.bulletList-onPXCScsiO h3,.bulletList-onPXCScsiO h4,.bulletList-onPXCScsiO h5,.bulletList-onPXCScsiO h6,.bulletList-onPXCScsiO ul li,.bulletList-onPXCScsiO.text-output
+      font-size: 16px!important;
+      font-weight: 400;
+
+  RULE 46: .bulletList-onPXCScsiO.text-output li:not(:last-child)
+      margin-bottom: 0;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #39 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 47: .paragraph-w0HdqBjXWw h1,.paragraph-w0HdqBjXWw h2,.paragraph-w0HdqBjXWw h3,.paragraph-w0HdqBjXWw h4,.paragraph-w0HdqBjXWw h5,.paragraph-w0HdqBjXWw h6,.paragraph-w0HdqBjXWw ul li,.paragraph-w0HdqBjXWw.text-output
+      font-size: 16px!important;
+      font-weight: 400;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #40 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 48: .heading-duLGuiQSqi h1,.heading-duLGuiQSqi h2,.heading-duLGuiQSqi h3,.heading-duLGuiQSqi h4,.heading-duLGuiQSqi h5,.heading-duLGuiQSqi h6,.heading-duLGuiQSqi ul li,.heading-duLGuiQSqi.text-output
+      font-size: 48px!important;
+      font-weight: 700;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #41 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 49: .heading-_cYjKhr08I h1,.heading-_cYjKhr08I h2,.heading-_cYjKhr08I h3,.heading-_cYjKhr08I h4,.heading-_cYjKhr08I h5,.heading-_cYjKhr08I h6,.heading-_cYjKhr08I ul li,.heading-_cYjKhr08I.text-output
+      font-size: 48px!important;
+      font-weight: 700;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #42 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 50: .hl_page-preview--content .section-_608la1bf
+      padding-top: 0;
+      padding-bottom: 0;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #43 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 51: .hl_page-preview--content .col-s0uYmIVbt>.inner
+      margin-top: 10px;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #44 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 52: .hl_page-preview--content .col-lXdkNRpXO>.inner
+      margin-bottom: 0;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #45 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 53: .hl_page-preview--content .row-Zcr8omz8zE
+      padding-bottom: 0;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #46 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 54: .paragraph-hlSLvwQbup h1,.paragraph-hlSLvwQbup h2,.paragraph-hlSLvwQbup h3,.paragraph-hlSLvwQbup h4,.paragraph-hlSLvwQbup h5,.paragraph-hlSLvwQbup h6,.paragraph-hlSLvwQbup ul li,.paragraph-hlSLvwQbup.text-output
+      font-size: 15px!important;
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #47 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 55: .heading-CtYN4wQ8cL h1,.heading-CtYN4wQ8cL h2,.heading-CtYN4wQ8cL h3,.heading-CtYN4wQ8cL h4,.heading-CtYN4wQ8cL h5,.heading-CtYN4wQ8cL h6,.heading-CtYN4wQ8cL ul li,.heading-CtYN4wQ8cL.text-output
+      font-size: 20px!important;
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #48 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 56: .paragraph-bc68ueVg1 h1,.paragraph-bc68ueVg1 h2,.paragraph-bc68ueVg1 h3,.paragraph-bc68ueVg1 h4,.paragraph-bc68ueVg1 h5,.paragraph-bc68ueVg1 h6,.paragraph-bc68ueVg1 ul li,.paragraph-bc68ueVg1.text-output
+      font-size: 15px!important;
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #49 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 57: .heading-7OKADIKTcm h1,.heading-7OKADIKTcm h2,.heading-7OKADIKTcm h3,.heading-7OKADIKTcm h4,.heading-7OKADIKTcm h5,.heading-7OKADIKTcm h6,.heading-7OKADIKTcm ul li,.heading-7OKADIKTcm.text-output
+      font-size: 20px!important;
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #50 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 58: .heading-mEBYSqfjq h1,.heading-mEBYSqfjq h2,.heading-mEBYSqfjq h3,.heading-mEBYSqfjq h4,.heading-mEBYSqfjq h5,.heading-mEBYSqfjq h6,.heading-mEBYSqfjq ul li,.heading-mEBYSqfjq.text-output
+      font-size: 32px!important;
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #51 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 59: .heading-ZSbH5gfXd h1,.heading-ZSbH5gfXd h2,.heading-ZSbH5gfXd h3,.heading-ZSbH5gfXd h4,.heading-ZSbH5gfXd h5,.heading-ZSbH5gfXd h6,.heading-ZSbH5gfXd ul li,.heading-ZSbH5gfXd.text-output
+      font-size: 20px!important;
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #52 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 60: .hl_page-preview--content .section-4vN7uutQQs
+      padding-top: 0;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #53 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 61: .hl_page-preview--content .row-a1G4fHcYbG
+      margin-bottom: 0;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #54 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 62: .sub-heading-u3l9Nx963C h1,.sub-heading-u3l9Nx963C h2,.sub-heading-u3l9Nx963C h3,.sub-heading-u3l9Nx963C h4,.sub-heading-u3l9Nx963C h5,.sub-heading-u3l9Nx963C h6,.sub-heading-u3l9Nx963C ul li,.sub-heading-u3l9Nx963C.text-output
+      font-size: 12px!important;
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #55 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 63: .paragraph-tfupXKjU-3 h1,.paragraph-tfupXKjU-3 h2,.paragraph-tfupXKjU-3 h3,.paragraph-tfupXKjU-3 h4,.paragraph-tfupXKjU-3 h5,.paragraph-tfupXKjU-3 h6,.paragraph-tfupXKjU-3 ul li,.paragraph-tfupXKjU-3.text-output
+      font-size: 16px!important;
+      font-weight: 400;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #56 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 64: .paragraph-R34baEl0BV h1,.paragraph-R34baEl0BV h2,.paragraph-R34baEl0BV h3,.paragraph-R34baEl0BV h4,.paragraph-R34baEl0BV h5,.paragraph-R34baEl0BV h6,.paragraph-R34baEl0BV ul li,.paragraph-R34baEl0BV.text-output
+      font-size: 16px!important;
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #57 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 65: .paragraph-e3CgDKMdp- h1,.paragraph-e3CgDKMdp- h2,.paragraph-e3CgDKMdp- h3,.paragraph-e3CgDKMdp- h4,.paragraph-e3CgDKMdp- h5,.paragraph-e3CgDKMdp- h6,.paragraph-e3CgDKMdp- ul li,.paragraph-e3CgDKMdp-.text-output
+      font-size: 16px!important;
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #58 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 66: .paragraph-ztrS0OTCeW h1,.paragraph-ztrS0OTCeW h2,.paragraph-ztrS0OTCeW h3,.paragraph-ztrS0OTCeW h4,.paragraph-ztrS0OTCeW h5,.paragraph-ztrS0OTCeW h6,.paragraph-ztrS0OTCeW ul li,.paragraph-ztrS0OTCeW.text-output
+      font-size: 16px!important;
+      font-weight: undefined;
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MOBILE BLOCK #59 (from style block 3) — 1 rule(s)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  RULE 67: .paragraph-xwloOJ4JvJ h1,.paragraph-xwloOJ4JvJ h2,.paragraph-xwloOJ4JvJ h3,.paragraph-xwloOJ4JvJ h4,.paragraph-xwloOJ4JvJ h5,.paragraph-xwloOJ4JvJ h6,.paragraph-xwloOJ4JvJ ul li,.paragraph-xwloOJ4JvJ.text-output
+      font-size: 16px!important;
+      font-weight: undefined;
+
+====================================================================================================
+MOBILE TOTAL: 67 rules, 125 properties across 59 @media blocks
+====================================================================================================
+
+[INFO] Desktop query (481px-10000px) has 47 rules for comparison.
+
+
+====================================================================================================
+ADDITIONAL MOBILE/TABLET QUERIES FROM OTHER STYLE BLOCKS
+====================================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+@media (max-width: 480px) — Style block 4
+────────────────────────────────────────────────────────────────────────────────
+
+  RULE: .bg-section-yOgb-2YeC
+      background: url(https://jkey.us/wp-content/uploads/2025/04/ab7ee7a9fb59fc2eb651463b22dd586f.png);
+      opacity: .5;
+
+────────────────────────────────────────────────────────────────────────────────
+TABLET: @media (min-width: 481px) and (max-width: 1024px) — Style block 4
+────────────────────────────────────────────────────────────────────────────────
+
+  RULE: .bg-section-yOgb-2YeC
+      background: url(https://jkey.us/wp-content/uploads/2025/04/ab7ee7a9fb59fc2eb651463b22dd586f.png);
+      opacity: .5;
+
+────────────────────────────────────────────────────────────────────────────────
+@media (max-width: 768px) — Style block 17
+────────────────────────────────────────────────────────────────────────────────
+
+  RULE: #jkey-header-2026
+      font-size: 32px;
+
+────────────────────────────────────────────────────────────────────────────────
+@media (max-width: 768px) — Style block 18
+────────────────────────────────────────────────────────────────────────────────
+
+  RULE: #jkey-header-2026
+      font-size: 32px;
+
+====================================================================================================
+EXTRACTION COMPLETE
+====================================================================================================
